@@ -1,0 +1,12 @@
+C:\MorochkaExam\MorochkkaKA_01_01\bin\Debug\net5.0\MorochkkaKA_01_01.deps.json
+C:\MorochkaExam\MorochkkaKA_01_01\bin\Debug\net5.0\MorochkkaKA_01_01.dll
+C:\MorochkaExam\MorochkkaKA_01_01\bin\Debug\net5.0\ref\MorochkkaKA_01_01.dll
+C:\MorochkaExam\MorochkkaKA_01_01\bin\Debug\net5.0\MorochkkaKA_01_01.pdb
+C:\MorochkaExam\MorochkkaKA_01_01\obj\Debug\net5.0\MorochkkaKA_01_01.csproj.AssemblyReference.cache
+C:\MorochkaExam\MorochkkaKA_01_01\obj\Debug\net5.0\MorochkkaKA_01_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\MorochkaExam\MorochkkaKA_01_01\obj\Debug\net5.0\MorochkkaKA_01_01.AssemblyInfoInputs.cache
+C:\MorochkaExam\MorochkkaKA_01_01\obj\Debug\net5.0\MorochkkaKA_01_01.AssemblyInfo.cs
+C:\MorochkaExam\MorochkkaKA_01_01\obj\Debug\net5.0\MorochkkaKA_01_01.csproj.CoreCompileInputs.cache
+C:\MorochkaExam\MorochkkaKA_01_01\obj\Debug\net5.0\MorochkkaKA_01_01.dll
+C:\MorochkaExam\MorochkkaKA_01_01\obj\Debug\net5.0\ref\MorochkkaKA_01_01.dll
+C:\MorochkaExam\MorochkkaKA_01_01\obj\Debug\net5.0\MorochkkaKA_01_01.pdb
